@@ -1,0 +1,37 @@
+Spring MVC
+Hibernate
+
+sql queries are buggy
+Hibernate - save to an object
+
+Hibernate does Object Relational Mapping
+
+Normal java program - spring wires
+Other spring modules
+
+form submission - storing in DB
+
+
+User management - easy
+JSP
+Easy to create website with spring
+
+Website for Facebook - Spring?
+secure Backends - server side technology
+
+Bunch of JARS
+JARS can read XML and annotations
+several different JARs
+
+Maven with Spring
+
+Maven saves you lot of sites
+
+Eclipse - spring applications
+
+-------------------------------------
+Plugins required for Spring - Eclipse
+-------------------------------------
+
+Maven integration for eclipse
+Spring IDE
